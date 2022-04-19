@@ -1,0 +1,31 @@
+Schriftart: Verdana, Helvetica, Arial, sans-serif
+Überschrift-Farbe h1, h2: #007e7e
+Link-Farbe: #007e7e
+Besuchter Link-Farbe: #333333
+
+Garantie-Absatz:
+Schriftart: Georgia, "Times New Roman", serif
+Schriftstil: kursiv
+Schriftfarbe: #444444
+Rand: 1px dashed weiß
+Hintergrundfarbe: #a7cece
+Padding und Margin sind wichtig...
+Hintergrundbild: no repeat, top left
+Link-Farbe: #007e7e
+Besuchter Link-Farbe: #333333
+
+Elixire-Absatz:
+Randfarbe: #007e7e
+Dem ganzen Absatz eine Breite geben (width)
+Padding und Margin sind wichtig...
+Textausrichtung: zentriert
+Hintergrundbild: repeat-x
+Mit Hilfe der Eigenschaft float nach rechts an den Rand schieben...
+Überschrift schwarz bzw. #d12c47
+Überfahrener Link-Farbe: #0d5353
+Überfahrener Link-Hintergrundfarbe: #f88396
+
+Footer:
+Textausrichtung: zentriert
+Schriftgröße: 70%
+Margin oben passend wählen
